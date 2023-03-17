@@ -1,0 +1,12 @@
+{
+    "mike": {
+        "name": "Michael",
+        "age": 40,
+        "role": "Point Guard"
+    },
+    "russ": {
+        "name": "Russell",
+        "age": 30,
+        "role": "Small Forward"
+    }
+}
