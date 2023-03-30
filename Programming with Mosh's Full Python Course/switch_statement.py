@@ -1,5 +1,3 @@
-# car racing word simulation
-
 exit_program = False
 while exit_program != True:
     car_state = input()
