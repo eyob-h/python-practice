@@ -30,3 +30,12 @@ for i in numbers:
 
 print(f"Duplicates removed: {no_dup}")
 
+
+# List and tuple unpacking
+ll = [1,2,3,4]
+a, b, c, d = ll 
+
+tpl = (11,23,33)
+x,y,z, h = tpl
+
+print(a, y , z )
